@@ -1,0 +1,180 @@
+body{
+    z-index: -1;
+    background: var(--color-darkblue);
+    background-image: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.heading{
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+.text-1{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-body{
+    width: 40%;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:  rgba(27,27,50,0.8);
+    border-radius: 5px;
+    font-family:  'Poppins', sans-serif;
+    color: aliceblue;
+}
+.name{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+.name-col{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+}
+.email{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+.email-col{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+}
+.age{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+.age-col{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+}
+.roles{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+#role{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25px;
+}
+.rec-text{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+#recommends{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#recommend-1
+{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#recommend-2
+{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+.fav-feat-text{
+    text-align: left;
+    margin-left: 5px;
+    padding-top: 22px;   
+}
+.fav-feature{
+    width: 95%;
+   margin-left: auto;
+   margin-right: auto;
+    height: 25px;
+}
+.improv-text{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#front-end{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#back-end{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#challenges{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#open-source{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+#gitter-help{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#videos{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#meetup{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#wiki{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#forum{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#add-courses{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+.sugg-text{
+    text-align: left;
+    margin-left: 15px;
+    padding-top: 22px;   
+}
+#sugguests{
+    margin-left: 20px;
+    padding-top: 22px;   
+}
+#sub{
+    width: 92%;
+    height: 20px;
+    margin-left: 15px;   
+    background-color: #37af65;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 3px;
+    border: none;
+}
